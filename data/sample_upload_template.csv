@@ -1,0 +1,6 @@
+followers_count,likes,comments,shares,saves,reach,impressions,posting_gap_days,follower_change,competitor_avg_engagement,post_type
+50000,2000,150,50,300,25000,40000,3,500,0.08,reel
+45000,1800,120,40,250,22000,35000,4,200,0.08,image
+48000,2200,180,60,350,28000,45000,2,800,0.08,reel
+47000,1500,100,30,200,20000,32000,5,-100,0.08,story
+49000,2500,200,70,400,30000,50000,1,1000,0.08,reel
